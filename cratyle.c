@@ -28,6 +28,8 @@
 
 //#define DEBUG_FAKE_MINITEL2
 
+#define CRATYLE_IMPRIME
+
 #define DEBUG_MINITEL1
 #define DEBUG_MINITEL2
 
