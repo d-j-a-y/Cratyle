@@ -48,6 +48,11 @@
 		<Unit filename="libminitel.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="libminitel.h" />
+		<Unit filename="testunitaire.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="testunitaire.h" />
 		<Extensions>
 			<code_completion />
 			<debugger>
